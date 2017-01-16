@@ -1,0 +1,47 @@
+body {
+	margin: 0 auto;
+	background: #95a5a6;
+	font-family: font-family: 'Oxygen', sans-serif;
+}
+
+a {
+	color: #c0392b;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e74c3c;
+}
+
+.login-form {
+	margin: 10% auto;
+	padding: 20px 20px;
+	width: 300px;
+	background: #ecf0f1;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px #9E9D9B;
+}
+
+.login-form input {
+	margin: 0;
+	width: 80%;
+	padding: 12px 28px;
+}
+
+.login-form button {
+	width: 100%;
+	padding: 10px 15px;
+	border: 0px;
+	border-radius: 5px;
+	background: #2ecc71;
+	color: #fff;
+	font-size: 18px;
+}
+
+.login-form button:hover {
+	background: #27ae60;
+	color: #fff;
+}

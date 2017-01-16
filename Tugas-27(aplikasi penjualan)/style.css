@@ -1,0 +1,165 @@
+@import "font-awesome-4.7.0/css/font-awesome.css";
+body{
+  padding: 0;
+  margin:0;
+}
+nav{
+  background-color: #28719a;
+  height: 60px;
+  margin-bottom: 50px;
+  width: 100%;
+
+}
+.profile{
+  float: right;
+  margin: 0;
+  padding: 0;
+
+}
+.profile ul {
+  margin: 0;
+padding-right: 0px;
+}
+.profile li{
+  margin: 0;
+  padding: 0;
+}
+ul{
+  float: left;
+  padding-top:0px;
+}
+li{
+  display: inline-block;
+  font-size: 25px;
+  padding: 0px 10px 5px 10px;
+  transition: font-size .5s;
+}
+li{
+  font-size: 20px;
+
+}
+/*section{
+pad
+
+}*/
+.logopic{
+  float:left;
+  height: 100px;
+
+
+}
+div.legal{
+  background-color: #00adcc;
+  height:100px;
+  margin:0px;
+}
+div.legal{
+  font-size: 40px;
+
+}
+
+div.legal h3{
+  margin: 0px;
+  padding-top: 40px;
+  padding-right: : 60px;
+  padding-left: 60px;
+  border-radius: 60px;
+
+}
+/*body*/
+body{
+  background-color: #e6e4e2;
+  /*background-size: 2300px;*/
+  /*background-position: center;
+  background-size: cover;*/
+  font-family: 'Exo', sans-serif;
+}
+footer{
+  background-color: #1beeb5;
+  height:70px;
+  width: 100%;
+  font-size: 100%;
+  margin: 0px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  clear: both;
+
+}
+
+.center {
+  text-align: center;
+}
+
+.bus {
+  clear: both;
+  margin: 0 auto;
+  width: 200px;
+  background-size: cover;
+}
+.member{
+  background-color: 1beeb5;
+}
+.edit session{
+  background-color: 1beeb5;
+}
+.enjoy{
+  text-align: center;
+  padding-top: 10%;
+}
+.enjoy input{
+  padding-left: 30px;
+}
+.dev input{
+width: 43%;
+}
+ul .menu{
+  font-size: 10px;
+}
+.notif{
+background: #0accff;
+position: relative;
+top: -70px;
+left: -5px;
+background: #00f0ff;
+color: #000;
+margin: 0 auto;
+width: 20px;
+border-radius: 50%;
+text-align: center;
+padding: 3px 0px;
+padding-bottom: 5px;
+border: 2px solid #5685DA;
+}
+
+/*
+form login */
+
+
+.login{
+    margin: 0 auto;
+    margin-top: 180px;
+    width: 200px;
+    height: 150px;
+    background: #F6F7F2;
+    border-radius: 5px;
+    box-shadow: 0px 2px 2px #9E9D9B;
+}
+
+.login input {
+    margin: 0;
+}
+
+button {
+    margin-bottom: 15px;
+
+}
+.mains{
+    height: 100px;
+    border: 0px;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+    width: 100%;
+}
+.field{
+  width: 100%; 
+}
